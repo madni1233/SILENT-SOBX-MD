@@ -102,16 +102,16 @@
 
 ----------------
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMADNI-SOCIAL-MEDIA40%2FM.A-SOCIAL-MEDIA-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/MADNI-SOCIAL-MEDIA40/M.A-SOCIAL-MEDIA-MD?label=Forks&style=social)
 
 
-rs](https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?style=social)
+[rs](https://img.shields.io/github/stars/MADNI-SOCIAL-MEDIA40/M.A-SOCIAL-MEDIA-MD?style=social)
 
 
-[![FORK Madni Social Media](https://img.shields.io/badge/FORK%20-Madni%20Social-Media%20MD-white)](https://github.com/Madni-Social-Media/M.A-Social-Media-MD/fork)
+[![FORK-Madni-Social-Media](https://img.shields.io/badge/FORK%20-Madni%20Social-Media%20MD-white)](https://github.com/Madni-Social-Media/M.A-Social-Media-MD/fork)
 
 `⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
 
