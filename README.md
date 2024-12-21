@@ -34,7 +34,7 @@
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SILENT-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/Madni-Social-Media-MD/count.svg" /><br>M.A-Social-Media-MD-V2</div>
 
 ------------
 
