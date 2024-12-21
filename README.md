@@ -1,7 +1,7 @@
 ---------
 
-### <br>  ❖  M.A❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SILENTLOVER 432`** 🔰
+### <br>  ❖Madni Social Media Services❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY M.A Social Media`** 🔰
 
 ----------
 
