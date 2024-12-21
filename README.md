@@ -53,7 +53,62 @@
 ![forks](https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?style=social)
+![sta-------
+
+### <br>  ❖Madni Social Media Services❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY M.A Social Media`** 🔰
+
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
+
+ 
+
+------------
+
+>
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+<br>
+
+--------
+
+<p align="center">
+<a href="https://github.com/M.A-Social-Media/"><img title="Followers" src="https://img.shields.io/github/followers/M.A-Social-Media?color=blue&style=flat-square"></a>
+<a href="https://github.com/M.A-Social-Media/Madni-Social-Media/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Madni-Social-Media/M.A-Social-Media-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Madni-Social-Media/M.A-Social-Media-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Madni-Social-Media/M.A-Social-Media-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Madni-Social-Media/M.A-Social-Media-MD/"><img title="Size" src="https://img.shields.io/github/repo-size10/Madni-Social-Media-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/MadniSocial/M.A-Social-Media-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+</p>
+
+-----------
+----------
+
+<div align="center"><br> <img src="https://profile-counter.glitch.me/Madni-Social-Media-MD/count.svg" /><br>M.A-Social-Media-MD-V2</div>
+
+------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+--------------
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+----------------
+
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSILENTLOVER40%2FSILENT-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+
+![forks](https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?label=Forks&style=social)
+
+
+rs](https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?style=social)
 
 
 [![FORK Madni Social Media](https://img.shields.io/badge/FORK%20-Madni%20Social-Media%20MD-white)](https://github.com/Madni-Social-Media/M.A-Social-Media-MD/fork)
