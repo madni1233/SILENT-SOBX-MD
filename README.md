@@ -22,10 +22,10 @@
 --------
 
 <p align="center">
-<a href="https://github.com/SILENTLOVER40/"><img title="Followers" src="https://img.shields.io/github/followers/M.A Social Media?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/Madni Social Media/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SILENTLOVER40/SILENT-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SILENTLOVER40/SILENT-SOBX-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/M.A Social Media/"><img title="Followers" src="https://img.shields.io/github/followers/M.A Social Media?color=blue&style=flat-square"></a>
+<a href="https://github.com/M.A Social Media/Madni Social Media/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Madni Social Media/M.A Social Media-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Madni Social Media/M.A Social Media-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Madni Social Media/M.A Social Media-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Madni Social Media/M.A-Social Media-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Madni Social Media-MD?style=flat-square&color=blue"></a>
 <a href="https://github.com/SILENTLOVER40/SILENT-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
