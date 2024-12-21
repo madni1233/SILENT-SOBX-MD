@@ -1,6 +1,6 @@
 ---------
 
-### <br>  ❖ SILENT-SOBX-MD ❖
+### <br>  ❖Madni Social Media -MD ❖
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY SILENTLOVER 432`** 🔰
 
 ----------
